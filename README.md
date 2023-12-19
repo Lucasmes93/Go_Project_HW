@@ -9,7 +9,7 @@ Assurez-vous d'avoir Go installé sur votre machine. Si ce n'est pas le cas, vou
 1. Clonez ce dépôt sur votre machine :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-repo.git
+   git clone https://github.com/Lucasmes93/Go_Projects.git
    ```
 
 2. Accédez au répertoire du projet :
